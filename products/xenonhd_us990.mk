@@ -24,7 +24,7 @@ PRODUCT_COPY_FILES +=  \
 -include vendor/xenonhd/products/common_drm.mk
 
 # Set those variables here to overwrite the inherited values.
-PRODUCT_DEVICE := is990
+PRODUCT_DEVICE := us990
 PRODUCT_NAME := xenonhd_us990
 PRODUCT_BRAND := lge
 PRODUCT_MODEL := LG-US990
